@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "devDependencies": {
+    "cucumber": "^4.2.1",
+    "nightwatch": "^0.9.21",
+    "nightwatch-cucumber": "^9.1.2",
+    "chromedriver": "^2.36.0",
+    "selenium-server": "^3.10.0"
+  }
+}
